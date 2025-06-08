@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Cigarette",
+    "author": "Moustafa",
+    "date": "2025-06-07",
+    "content": "A story about a habit."
+  },
+  {
+    "id": 2,
+    "title": "A Cup of Silence",
+    "author": "Ahmad",
+    "date": "2025-06-06",
+    "content": "Sometimes peace comes in sips — a quiet morning, a hot drink, and thoughts unspoken."
+  },
+  {
+    "id": 3,
+    "title": "Chasing Light",
+    "author": "Adel",
+    "date": "2025-06-05",
+    "content": "We’re all chasing something—success, love, meaning. But the real light might be in slowing down and feeling the sun on your face."
+  },
+  {
+    "id": 4,
+    "title": "Unwritten Pages",
+    "author": "Yusuf",
+    "date": "2025-06-04",
+    "content": "Not every day needs a story. Some days are blank pages, and that’s okay too."
+  },
+  {
+    "id": 5,
+    "title": "Late Night Tea",
+    "author": "Ahmad",
+    "date": "2025-06-03",
+    "content": "Tea tastes different when the world is quiet. It feels like a hug in a cup."
+  },
+  {
+    "id": 6,
+    "title": "Digital Exhaustion",
+    "author": "Moustafa",
+    "date": "2025-06-02",
+    "content": "When was the last time you read something without clicking away halfway through?"
+  },
+  {
+    "id": 7,
+    "title": "Kindness Is Quiet",
+    "author": "Moustafa",
+    "date": "2025-06-01",
+    "content": "Kindness doesn’t always shout. Sometimes, it simply shows up."
+  }
+]

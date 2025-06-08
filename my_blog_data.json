@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Cigarette",
+    "author": "Moustafa",
+    "date": "2025-06-07",
+    "content": "A story about a habit."
+  },
+  {
+    "id": 6,
+    "title": "Digital Exhaustion",
+    "author": "Moustafa",
+    "date": "2025-06-02",
+    "content": "When was the last time you read something without clicking away halfway through?"
+  },
+  {
+    "id": 7,
+    "title": "Kindness Is Quiet",
+    "author": "Moustafa",
+    "date": "2025-06-01",
+    "content": "Kindness doesn’t always shout. Sometimes, it simply shows up."
+  }
+]

@@ -1,0 +1,25 @@
+<%- include("header.ejs") %>
+
+
+    <div class="container mt-3">
+        <h2 class="text-center">View My Blogs</h2>
+        <div class="row mt-4">
+            <% for (let i=0; i < myBlogs.length; i++) { %>
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                <%= myBlogs[i].title %>
+                            </h5>
+                            <h6 class="card-subtitle mb-2 text-muted">
+                                By <%= myBlogs[i].author %> | <%= myBlogs[i].date %>
+                            </h6>
+                            <p class="card-text">
+                                <%= myBlogs[i].content %>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <% } %>
+        </div>
+    </div>
